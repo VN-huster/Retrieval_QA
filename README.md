@@ -6,6 +6,10 @@ pip install -r requirements.txt
 ### Activate the enviroment:
 conda activate DoctorChat
 
+### Move to work directory
+cd /home/b05/Huan/DoctorChat/ChatDoctor/API_Company
+! The work directory will be updated soon
+
 ### Run fastapi:
 python runDoctor.py
 
