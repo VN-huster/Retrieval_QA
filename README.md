@@ -14,9 +14,9 @@ conda activate DoctorChat
 ```
 cd /home/b05/Huan/DoctorChat/ChatDoctor/API_Company
 ```
-```diff
+diff
 - The work directory will be updated soon
-```
+
 ### Run fastapi:
 ```
 python runDoctor.py
