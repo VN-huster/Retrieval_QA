@@ -8,7 +8,7 @@ pip install -r requirements.txt
 
 ### Run fastapi:
 ```
-python runDoctor.py
+python runFastapiQA.py
 ```
 
 ### Run demo by flask:
