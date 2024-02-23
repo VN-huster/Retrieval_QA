@@ -13,6 +13,6 @@ python runDoctor.py
 
 ### Run demo by flask:
 ```
-python runDoctorFlask.py
+python runQAĐHQG.py
 ```
 
